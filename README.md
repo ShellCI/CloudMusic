@@ -2,7 +2,7 @@
 
 > 网易云音乐刷歌升级脚本，欢迎提 issue 和 requests 帮助增强脚本功能。
 >
-> [基于项目](https://github.com/Secriy/CloudMusic-LevelUp)
+> [基于Seciy项目](https://github.com/Secriy/CloudMusic-LevelUp)
 
 ## 脚本功能
 
